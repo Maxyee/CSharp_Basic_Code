@@ -1,0 +1,6 @@
+c:\users\mohon\documents\visual studio 2013\Projects\private_access_specifier\private_access_specifier\bin\Debug\private_access_specifier.exe.config
+c:\users\mohon\documents\visual studio 2013\Projects\private_access_specifier\private_access_specifier\bin\Debug\private_access_specifier.exe
+c:\users\mohon\documents\visual studio 2013\Projects\private_access_specifier\private_access_specifier\bin\Debug\private_access_specifier.pdb
+c:\users\mohon\documents\visual studio 2013\Projects\private_access_specifier\private_access_specifier\obj\Debug\private_access_specifier.csprojResolveAssemblyReference.cache
+c:\users\mohon\documents\visual studio 2013\Projects\private_access_specifier\private_access_specifier\obj\Debug\private_access_specifier.exe
+c:\users\mohon\documents\visual studio 2013\Projects\private_access_specifier\private_access_specifier\obj\Debug\private_access_specifier.pdb
