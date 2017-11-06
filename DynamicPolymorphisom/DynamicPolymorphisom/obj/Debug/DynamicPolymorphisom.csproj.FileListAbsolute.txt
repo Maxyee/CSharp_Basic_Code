@@ -1,0 +1,6 @@
+c:\users\mohon\documents\visual studio 2013\Projects\DynamicPolymorphisom\DynamicPolymorphisom\bin\Debug\DynamicPolymorphisom.exe.config
+c:\users\mohon\documents\visual studio 2013\Projects\DynamicPolymorphisom\DynamicPolymorphisom\bin\Debug\DynamicPolymorphisom.exe
+c:\users\mohon\documents\visual studio 2013\Projects\DynamicPolymorphisom\DynamicPolymorphisom\bin\Debug\DynamicPolymorphisom.pdb
+c:\users\mohon\documents\visual studio 2013\Projects\DynamicPolymorphisom\DynamicPolymorphisom\obj\Debug\DynamicPolymorphisom.csprojResolveAssemblyReference.cache
+c:\users\mohon\documents\visual studio 2013\Projects\DynamicPolymorphisom\DynamicPolymorphisom\obj\Debug\DynamicPolymorphisom.exe
+c:\users\mohon\documents\visual studio 2013\Projects\DynamicPolymorphisom\DynamicPolymorphisom\obj\Debug\DynamicPolymorphisom.pdb
