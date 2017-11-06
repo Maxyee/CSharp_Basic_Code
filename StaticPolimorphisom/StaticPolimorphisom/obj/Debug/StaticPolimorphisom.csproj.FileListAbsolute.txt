@@ -1,0 +1,6 @@
+c:\users\mohon\documents\visual studio 2013\Projects\StaticPolimorphisom\StaticPolimorphisom\bin\Debug\StaticPolimorphisom.exe.config
+c:\users\mohon\documents\visual studio 2013\Projects\StaticPolimorphisom\StaticPolimorphisom\bin\Debug\StaticPolimorphisom.exe
+c:\users\mohon\documents\visual studio 2013\Projects\StaticPolimorphisom\StaticPolimorphisom\bin\Debug\StaticPolimorphisom.pdb
+c:\users\mohon\documents\visual studio 2013\Projects\StaticPolimorphisom\StaticPolimorphisom\obj\Debug\StaticPolimorphisom.csprojResolveAssemblyReference.cache
+c:\users\mohon\documents\visual studio 2013\Projects\StaticPolimorphisom\StaticPolimorphisom\obj\Debug\StaticPolimorphisom.exe
+c:\users\mohon\documents\visual studio 2013\Projects\StaticPolimorphisom\StaticPolimorphisom\obj\Debug\StaticPolimorphisom.pdb
