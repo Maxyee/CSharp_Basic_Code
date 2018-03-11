@@ -1,0 +1,4 @@
+c:\users\mohon\documents\visual studio 2013\Projects\LiveCholeVaya\LiveCholeVaya\bin\Debug\LiveCholeVaya.exe
+c:\users\mohon\documents\visual studio 2013\Projects\LiveCholeVaya\LiveCholeVaya\bin\Debug\LiveCholeVaya.pdb
+c:\users\mohon\documents\visual studio 2013\Projects\LiveCholeVaya\LiveCholeVaya\obj\Debug\LiveCholeVaya.exe
+c:\users\mohon\documents\visual studio 2013\Projects\LiveCholeVaya\LiveCholeVaya\obj\Debug\LiveCholeVaya.pdb
