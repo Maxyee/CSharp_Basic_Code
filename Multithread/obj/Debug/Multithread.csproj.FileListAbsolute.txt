@@ -1,0 +1,7 @@
+C:\Users\Mohon\source\repos\Multithread\Multithread\bin\Debug\Multithread.exe.config
+C:\Users\Mohon\source\repos\Multithread\Multithread\bin\Debug\Multithread.exe
+C:\Users\Mohon\source\repos\Multithread\Multithread\bin\Debug\Multithread.pdb
+C:\Users\Mohon\source\repos\Multithread\Multithread\obj\Debug\Multithread.csprojResolveAssemblyReference.cache
+C:\Users\Mohon\source\repos\Multithread\Multithread\obj\Debug\Multithread.csproj.CoreCompileInputs.cache
+C:\Users\Mohon\source\repos\Multithread\Multithread\obj\Debug\Multithread.exe
+C:\Users\Mohon\source\repos\Multithread\Multithread\obj\Debug\Multithread.pdb
