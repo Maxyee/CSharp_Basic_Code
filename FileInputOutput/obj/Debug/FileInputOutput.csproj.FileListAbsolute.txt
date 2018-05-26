@@ -1,0 +1,7 @@
+C:\Users\Mohon\source\repos\FileInputOutput\FileInputOutput\bin\Debug\FileInputOutput.exe.config
+C:\Users\Mohon\source\repos\FileInputOutput\FileInputOutput\bin\Debug\FileInputOutput.exe
+C:\Users\Mohon\source\repos\FileInputOutput\FileInputOutput\bin\Debug\FileInputOutput.pdb
+C:\Users\Mohon\source\repos\FileInputOutput\FileInputOutput\obj\Debug\FileInputOutput.csprojResolveAssemblyReference.cache
+C:\Users\Mohon\source\repos\FileInputOutput\FileInputOutput\obj\Debug\FileInputOutput.csproj.CoreCompileInputs.cache
+C:\Users\Mohon\source\repos\FileInputOutput\FileInputOutput\obj\Debug\FileInputOutput.exe
+C:\Users\Mohon\source\repos\FileInputOutput\FileInputOutput\obj\Debug\FileInputOutput.pdb
