@@ -1,0 +1,1 @@
+C:\Users\Mohon\source\repos\CSharpAttributes\CSharpObsolete\obj\Debug\CSharpObsolete.csproj.CoreCompileInputs.cache
