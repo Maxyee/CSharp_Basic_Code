@@ -1,0 +1,7 @@
+C:\Users\Mohon\source\repos\CSharpAttributes\CSharpAttributes\bin\Debug\CSharpAttributes.exe.config
+C:\Users\Mohon\source\repos\CSharpAttributes\CSharpAttributes\bin\Debug\CSharpAttributes.exe
+C:\Users\Mohon\source\repos\CSharpAttributes\CSharpAttributes\bin\Debug\CSharpAttributes.pdb
+C:\Users\Mohon\source\repos\CSharpAttributes\CSharpAttributes\obj\Debug\CSharpAttributes.csprojResolveAssemblyReference.cache
+C:\Users\Mohon\source\repos\CSharpAttributes\CSharpAttributes\obj\Debug\CSharpAttributes.csproj.CoreCompileInputs.cache
+C:\Users\Mohon\source\repos\CSharpAttributes\CSharpAttributes\obj\Debug\CSharpAttributes.exe
+C:\Users\Mohon\source\repos\CSharpAttributes\CSharpAttributes\obj\Debug\CSharpAttributes.pdb
