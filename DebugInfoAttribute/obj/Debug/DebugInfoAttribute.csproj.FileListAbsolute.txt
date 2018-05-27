@@ -1,0 +1,7 @@
+C:\Users\Mohon\source\repos\CSharpAttributes\DebugInfoAttribute\obj\Debug\DebugInfoAttribute.csprojResolveAssemblyReference.cache
+C:\Users\Mohon\source\repos\CSharpAttributes\DebugInfoAttribute\obj\Debug\DebugInfoAttribute.csproj.CoreCompileInputs.cache
+C:\Users\Mohon\source\repos\CSharpAttributes\DebugInfoAttribute\bin\Debug\DebugInfoAttribute.exe.config
+C:\Users\Mohon\source\repos\CSharpAttributes\DebugInfoAttribute\bin\Debug\DebugInfoAttribute.exe
+C:\Users\Mohon\source\repos\CSharpAttributes\DebugInfoAttribute\bin\Debug\DebugInfoAttribute.pdb
+C:\Users\Mohon\source\repos\CSharpAttributes\DebugInfoAttribute\obj\Debug\DebugInfoAttribute.exe
+C:\Users\Mohon\source\repos\CSharpAttributes\DebugInfoAttribute\obj\Debug\DebugInfoAttribute.pdb
