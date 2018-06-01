@@ -1,0 +1,7 @@
+C:\Users\Mohon\source\repos\CShapeDelegates\CShapeDelegates\bin\Debug\CShapeDelegates.exe.config
+C:\Users\Mohon\source\repos\CShapeDelegates\CShapeDelegates\bin\Debug\CShapeDelegates.exe
+C:\Users\Mohon\source\repos\CShapeDelegates\CShapeDelegates\bin\Debug\CShapeDelegates.pdb
+C:\Users\Mohon\source\repos\CShapeDelegates\CShapeDelegates\obj\Debug\CShapeDelegates.csprojResolveAssemblyReference.cache
+C:\Users\Mohon\source\repos\CShapeDelegates\CShapeDelegates\obj\Debug\CShapeDelegates.csproj.CoreCompileInputs.cache
+C:\Users\Mohon\source\repos\CShapeDelegates\CShapeDelegates\obj\Debug\CShapeDelegates.exe
+C:\Users\Mohon\source\repos\CShapeDelegates\CShapeDelegates\obj\Debug\CShapeDelegates.pdb
