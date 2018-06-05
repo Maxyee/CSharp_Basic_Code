@@ -1,0 +1,7 @@
+C:\Users\Mohon\source\repos\CsharpEvents\CsharpEvents\bin\Debug\CsharpEvents.exe.config
+C:\Users\Mohon\source\repos\CsharpEvents\CsharpEvents\bin\Debug\CsharpEvents.exe
+C:\Users\Mohon\source\repos\CsharpEvents\CsharpEvents\bin\Debug\CsharpEvents.pdb
+C:\Users\Mohon\source\repos\CsharpEvents\CsharpEvents\obj\Debug\CsharpEvents.csprojResolveAssemblyReference.cache
+C:\Users\Mohon\source\repos\CsharpEvents\CsharpEvents\obj\Debug\CsharpEvents.csproj.CoreCompileInputs.cache
+C:\Users\Mohon\source\repos\CsharpEvents\CsharpEvents\obj\Debug\CsharpEvents.exe
+C:\Users\Mohon\source\repos\CsharpEvents\CsharpEvents\obj\Debug\CsharpEvents.pdb
