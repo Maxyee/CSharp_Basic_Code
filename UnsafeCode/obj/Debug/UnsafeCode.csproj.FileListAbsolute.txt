@@ -1,0 +1,2 @@
+C:\Users\Mohon\source\repos\UnsafeCode\UnsafeCode\obj\Debug\UnsafeCode.csprojResolveAssemblyReference.cache
+C:\Users\Mohon\source\repos\UnsafeCode\UnsafeCode\obj\Debug\UnsafeCode.csproj.CoreCompileInputs.cache
